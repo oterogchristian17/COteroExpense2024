@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0tH9A/sU8GPb+hjFVvJ/AgEj0iuQfM2sFTg/LOtGu1PsWw92TJs6NB52g1sGI9nZzhq2uT9zQjFhHmPjq+F/uw==",
+  "dgSpecHash": "TzJclcT8TgUBNps1OY9gkK0vksjxAHHNWGdqlxoSdw7UXpTuaIAnW6KyHIMRggTKQttRuw47+pP3MPxkXaX5Kw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\digis\\Desktop\\Expense\\Expense-Tracker\\Expense-Tracker\\Expense Tracker\\Expense Tracker.csproj",
+  "projectFilePath": "C:\\Users\\digis\\Documents\\Christian Otero Garcia\\COteroGitExpenseTracker\\COteroExpense\\Expense Tracker\\Expense Tracker.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\digis\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\digis\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\digis\\Desktop\\Expense\\Expense-Tracker\\Expense-Tracker\\Expense Tracker\\Expense Tracker.csproj": {}
+    "C:\\Users\\digis\\Documents\\Christian Otero Garcia\\COteroGitExpenseTracker\\COteroExpense\\Expense Tracker\\Expense Tracker.csproj": {}
   },
   "projects": {
-    "C:\\Users\\digis\\Desktop\\Expense\\Expense-Tracker\\Expense-Tracker\\Expense Tracker\\Expense Tracker.csproj": {
+    "C:\\Users\\digis\\Documents\\Christian Otero Garcia\\COteroGitExpenseTracker\\COteroExpense\\Expense Tracker\\Expense Tracker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\digis\\Desktop\\Expense\\Expense-Tracker\\Expense-Tracker\\Expense Tracker\\Expense Tracker.csproj",
+        "projectUniqueName": "C:\\Users\\digis\\Documents\\Christian Otero Garcia\\COteroGitExpenseTracker\\COteroExpense\\Expense Tracker\\Expense Tracker.csproj",
         "projectName": "Expense Tracker",
-        "projectPath": "C:\\Users\\digis\\Desktop\\Expense\\Expense-Tracker\\Expense-Tracker\\Expense Tracker\\Expense Tracker.csproj",
+        "projectPath": "C:\\Users\\digis\\Documents\\Christian Otero Garcia\\COteroGitExpenseTracker\\COteroExpense\\Expense Tracker\\Expense Tracker.csproj",
         "packagesPath": "C:\\Users\\digis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\digis\\Desktop\\Expense\\Expense-Tracker\\Expense-Tracker\\Expense Tracker\\obj\\",
+        "outputPath": "C:\\Users\\digis\\Documents\\Christian Otero Garcia\\COteroGitExpenseTracker\\COteroExpense\\Expense Tracker\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
