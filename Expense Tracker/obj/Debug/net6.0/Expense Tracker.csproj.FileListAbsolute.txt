@@ -1094,3 +1094,21 @@ C:\Users\digis\Documents\Christian Otero Garcia\COteroGitExpenseTracker\COteroEx
 C:\Users\digis\Documents\Christian Otero Garcia\COteroGitExpenseTracker\COteroExpense\Expense Tracker\obj\Debug\net6.0\Expense Tracker.pdb
 C:\Users\digis\Documents\Christian Otero Garcia\COteroGitExpenseTracker\COteroExpense\Expense Tracker\obj\Debug\net6.0\Expense Tracker.genruntimeconfig.cache
 C:\Users\digis\Documents\Christian Otero Garcia\COteroGitExpenseTracker\COteroExpense\Expense Tracker\obj\Debug\net6.0\ref\Expense Tracker.dll
+C:\Users\digis\Documents\Christian Otero Garcia\COteroGitExpenseTracker\COteroExpense\Expense Tracker\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\digis\Documents\Christian Otero Garcia\COteroGitExpenseTracker\COteroExpense\Expense Tracker\bin\Debug\net6.0\itext.barcodes.dll
+C:\Users\digis\Documents\Christian Otero Garcia\COteroGitExpenseTracker\COteroExpense\Expense Tracker\bin\Debug\net6.0\itext.bouncy-castle-connector.dll
+C:\Users\digis\Documents\Christian Otero Garcia\COteroGitExpenseTracker\COteroExpense\Expense Tracker\bin\Debug\net6.0\itext.forms.dll
+C:\Users\digis\Documents\Christian Otero Garcia\COteroGitExpenseTracker\COteroExpense\Expense Tracker\bin\Debug\net6.0\itext.io.dll
+C:\Users\digis\Documents\Christian Otero Garcia\COteroGitExpenseTracker\COteroExpense\Expense Tracker\bin\Debug\net6.0\itext.kernel.dll
+C:\Users\digis\Documents\Christian Otero Garcia\COteroGitExpenseTracker\COteroExpense\Expense Tracker\bin\Debug\net6.0\itext.layout.dll
+C:\Users\digis\Documents\Christian Otero Garcia\COteroGitExpenseTracker\COteroExpense\Expense Tracker\bin\Debug\net6.0\itext.pdfa.dll
+C:\Users\digis\Documents\Christian Otero Garcia\COteroGitExpenseTracker\COteroExpense\Expense Tracker\bin\Debug\net6.0\itext.pdfua.dll
+C:\Users\digis\Documents\Christian Otero Garcia\COteroGitExpenseTracker\COteroExpense\Expense Tracker\bin\Debug\net6.0\itext.sign.dll
+C:\Users\digis\Documents\Christian Otero Garcia\COteroGitExpenseTracker\COteroExpense\Expense Tracker\bin\Debug\net6.0\itext.styledxmlparser.dll
+C:\Users\digis\Documents\Christian Otero Garcia\COteroGitExpenseTracker\COteroExpense\Expense Tracker\bin\Debug\net6.0\itext.svg.dll
+C:\Users\digis\Documents\Christian Otero Garcia\COteroGitExpenseTracker\COteroExpense\Expense Tracker\bin\Debug\net6.0\itext.commons.dll
+C:\Users\digis\Documents\Christian Otero Garcia\COteroGitExpenseTracker\COteroExpense\Expense Tracker\bin\Debug\net6.0\itextsharp.dll
+C:\Users\digis\Documents\Christian Otero Garcia\COteroGitExpenseTracker\COteroExpense\Expense Tracker\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\digis\Documents\Christian Otero Garcia\COteroGitExpenseTracker\COteroExpense\Expense Tracker\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\digis\Documents\Christian Otero Garcia\COteroGitExpenseTracker\COteroExpense\Expense Tracker\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+C:\Users\digis\Documents\Christian Otero Garcia\COteroGitExpenseTracker\COteroExpense\Expense Tracker\bin\Debug\net6.0\itext.bouncy-castle-adapter.dll

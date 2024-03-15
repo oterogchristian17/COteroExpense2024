@@ -6,6 +6,14 @@
     ViewData["PageActionUrl"] = "/Transaction/AddOrEdit";
 }
 
+<input type="submit" class="btn btn-primary" value="Download Income" onclick="location.href='@Url.Action("GenerarPDF", "Transaction",  new{tipo="Income"})'" />
+<input type="submit" class="btn btn-primary" value="Download Expense" onclick="location.href='@Url.Action("GenerarPDF", "Transaction",  new{tipo="Expense"})'" />
+<input type="submit" class="btn btn-primary" value="Download All" onclick="location.href='@Url.Action("GenerarPDF", "Transaction")'" />
+
+<br>
+
+<br>
+
 <div class="row">
     <div class="col-md-7">
         <ejs-grid id="transactions" dataSource="@Model" gridLines="None"
@@ -14,7 +22,7 @@
             <e-grid-columns>
                 <e-grid-column headerText="Category" field="CategoryTitleWithIcon"></e-grid-column>
                 <e-grid-column headerText="Date" field="Date" width="110px"
-                    type="date" format="MMM-dd-yy" textAlign="Left"></e-grid-column>
+                               type="date" format="MMM-dd-yy" textAlign="Left"></e-grid-column>
                 <e-grid-column headerText="Amount" field="FormattedAmount" textAlign="Right" width="110px"></e-grid-column>
                 <e-grid-column headerText="Actions" template="#actionColumnTemplate" width="100px"></e-grid-column>
             </e-grid-columns>
@@ -33,7 +41,7 @@
             <i class="fa-solid fa-pen fa-lg"></i>
         </a>
         <form action="/Transaction/Delete/${TransactionId}" method="post">
-            @Html.AntiForgeryToken()
+    @Html.AntiForgeryToken()
             <button type="submit" class="btn btn-sm btn-link no-a-decoration"
             onclick="return confirm(&quot;Are sure to delete this record?&quot;)">
                 <i class="fa-solid fa-trash-can fa-lg text-danger"></i>
